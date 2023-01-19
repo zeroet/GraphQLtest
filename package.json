@@ -1,0 +1,29 @@
+{
+  "name": "graphqltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroet/GraphQLtest.git"
+  },
+  "keywords": [],
+  "author": "seyun <seyun42@student.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeroet/GraphQLtest/issues"
+  },
+  "homepage": "https://github.com/zeroet/GraphQLtest#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
