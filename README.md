@@ -1,3 +1,3 @@
 # GraphQLtest
 
-Make simple GraphQL server on the nodejs.
+Make simple GraphQL API server on the NodeJs.
